@@ -1,4 +1,7 @@
-print("Hello World")
+print("Hello", "World!")
+print("Hello", "World!", sep=" ", end=" ")
 
-if world:
-    pass
+a=int(input("Enter Your Image: "))
+
+
+#
