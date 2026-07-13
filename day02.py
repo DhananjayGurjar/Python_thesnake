@@ -16,5 +16,3 @@ print(tuple[2:7])#starting from 2 and end at not 7
 print(tuple.index(56))
 
 print(tuple.count(5))
-
-#helloSSS
