@@ -1,2 +1,17 @@
 #type Conversion Method:
 #helps you inchanging the type of function from one to another 
+
+
+
+
+#tuple in python :
+
+tuple=(1,2,3,4,5,56,7,8)
+
+print(tuple[-4])
+
+print(tuple[2:7])#starting from 2 and end at not 7
+
+print(tuple.index(56))
+
+print(tuple.count(5))
