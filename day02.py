@@ -4,7 +4,8 @@
 
 
 
-#tuple in python :
+#tuple in python : creating single tuple in is a little tricky i.e. we nee to add omma after the list item i.e. 
+#tuple=(10,)
 
 tuple=(1,2,3,4,5,56,7,8)
 
