@@ -19,4 +19,9 @@ print (a)
 print (b)
 
 
-# hrllo
+#print a times a and b times b and in between them add a symbol that is @
+
+a=input(":")
+b=input(":")
+
+print(a*int(a), b*int(b), sep="@")
