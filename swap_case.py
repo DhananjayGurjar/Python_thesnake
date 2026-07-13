@@ -15,5 +15,10 @@ a,b= b,a
 print (a)
 print (b)
 
+#print a times a and b times b and seprate them with @(dont use any loop)
 
-# hrllo
+a=input()
+b=input()
+
+print(a*int(a), b*int(b), sep = "@")
+
