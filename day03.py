@@ -2,7 +2,7 @@
 
 Price:{ "laptop" : 4000 , "Mobile": 8000}
 
-print(price)
+print(set(Price))
 
 #sets : unordered collection of data 
 
