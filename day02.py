@@ -19,3 +19,6 @@ print(tuple.count(5))
 
 #list 
 
+#list 
+list=[1,2,3,]
+
