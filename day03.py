@@ -1,5 +1,8 @@
 #dictionary :key value pairs 
 
+Price:{ "laptop" : 4000 , "Mobile": 8000}
+
+print(price)
 
 #sets : unordered collection of data 
 
