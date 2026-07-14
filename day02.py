@@ -17,4 +17,4 @@ print(tuple.index(56))
 
 print(tuple.count(5))
 
-#list : tuple are immutable but list they are muttable we can add delete elements 
+#helloSSS
