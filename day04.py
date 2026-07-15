@@ -38,3 +38,30 @@ Output:
 94
 '''
 # the same should be the output 
+
+# this is what the solution looks like 
+
+st = {int(x) for x in input().split()}
+i = int(input())
+r = int(input())
+
+# Insert i in set
+st.add(i)
+
+# Printing the set
+for i in sorted(st):
+    print(i, end=' ')
+print()
+
+# Remove r from set
+st.discard(r)
+
+# Printing the set
+for i in sorted(st):
+    print(i, end=' ')
+print()
+
+s = sum(st)
+
+# Print sum of set
+print(s)
