@@ -23,3 +23,6 @@ match a:
         print("Three")
     case _:
         print("Invalid")
+
+#you can practic three question they are :
+# even odd , leap year , calculator , largest of three numbers 
