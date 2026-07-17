@@ -23,3 +23,22 @@ match a:
         print("Three")
     case _:
         print("Invalid")
+
+#you can practic three question they are :
+# even odd , leap year , calculator , largest of three numbers 
+
+a = int(input())
+
+if a%2 == 0:
+    print("Even")
+else :
+    print("Odd")
+
+match a:
+    case 1:
+        print("One")
+    case 2:
+        print("Two")
+    case _:
+        print("Invalid")
+
