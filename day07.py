@@ -10,3 +10,9 @@ def sum():
 def sum(int a , int b):
   sum=a+b
   print(sum)
+
+
+# it gives a decent and approach in the coding 
+
+#  function and if else make condition that are getting worse and tough easier 
+# i just keep doing practice this in a better way 
