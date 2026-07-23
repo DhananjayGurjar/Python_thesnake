@@ -19,3 +19,4 @@ print(a**b)
 # and used when both output should be correct 
 # or when any one of the output can be correct 
 # not when result should be opposite as imagined
+

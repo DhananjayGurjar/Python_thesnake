@@ -7,13 +7,13 @@ def sum():
 
 #argumented function :
 
-def sum(int a , int b):
+def sum(a, b):
   sum=a+b
   print(sum)
 
 
-# it gives a decent and approach in the coding 
+#it gives a decent and approach in the coding 
 
-#  function and if else make condition that are getting worse and tough easier 
-# i just keep doing practice this in a better way 
+#function and if else make condition that are getting worse and tough easier 
+#i just keep doing practice this in a better way 
 
